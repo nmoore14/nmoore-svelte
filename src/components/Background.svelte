@@ -25,4 +25,7 @@
   <h2 class="text-gray-300">
     (Mouse position in window)
   </h2>
+    <h2 class="text-gray-300">
+    X: {$x_css} | Y: {$y_css}
+  </h2>
 </div>

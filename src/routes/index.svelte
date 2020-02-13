@@ -2,14 +2,12 @@
 	import { x_value, y_value, x_css, y_css } from '../store.js';
 
   function handleMousemove(event) {
+		let newX = Math.floor((event.clientX / 1920) * 10) + 2;
+		let newY = Math.floor((event.clientY / 1920) * 10) + 2;
 		x_value.update(x => event.clientX);
 		y_value.update(y => event.clientY);
-		x_css.update(n => getPoint(event.clientX));
-		y_css.update(k => getPoint(event.clientY));
-	}
-
-	function getPoint(pos) {
-		return (pos / 1920) + 2;
+		x_css.update(n => newX);
+		y_css.update(k => newY);
 	}
 </script>
 
