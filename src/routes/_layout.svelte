@@ -1,11 +1,16 @@
 <script>
 	import Nav from '../components/Nav.svelte';
+	import Background from '../components/Background.svelte';
 
 	export let segment;
 </script>
 
-<Nav {segment}/>
+<style>
 
-<main class="lg:mt-20 container mx-auto p-4">
+</style>
+
+<main class="flex flex-col w-full h-full">
+	<Nav {segment}/>
 	<slot></slot>
+	<Background />
 </main>

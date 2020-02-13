@@ -11,8 +11,8 @@
 </script>
 
 <nav
-  class="text-white w-full flex items-center justify-between flex-wrap
-  bg-teal-600 p-6 shadow-lg lg:fixed lg:top-0">
+  class="z-10 fixed flex flex-row p-2 bg-transparent justify-between"
+>
 
   <a href="." class="font-semibold text-xl tracking-tight mr-4">
     Your project name
