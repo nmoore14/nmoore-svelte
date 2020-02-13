@@ -15,6 +15,6 @@
 	<title>Nick Moore | Developer</title>
 </svelte:head>
 
-<div class="z-1 flex flex-row w-screen h-screen" on:mousemove={handleMousemove}>
-	<h1 class="w-full font-sans font-thin text-center p-4">Nick Moore</h1>
+<div class="z-1 flex flex-row w-screen h-screen bg-transparent-0" on:mousemove={handleMousemove}>
+	<h1 class="w-full font-sans font-thin text-center p-4 bg-transparent-0">Nick Moore</h1>
 </div>

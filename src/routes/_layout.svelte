@@ -9,7 +9,7 @@
 
 </style>
 
-<main class="flex flex-col w-full h-full">
+<main class="flex flex-col w-full h-full bg-transparent-0">
 	<Nav {segment}/>
 	<slot></slot>
 	<Background />
