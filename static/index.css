@@ -7898,44 +7898,12 @@ video {
   color: #702459;
 }
 
-.text-xs {
-  font-size: 0.75rem;
+.text-mob {
+  font-size: 10rem;
 }
 
-.text-sm {
-  font-size: 0.875rem;
-}
-
-.text-base {
-  font-size: 1rem;
-}
-
-.text-lg {
-  font-size: 1.125rem;
-}
-
-.text-xl {
-  font-size: 1.25rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-}
-
-.text-5xl {
-  font-size: 3rem;
-}
-
-.text-6xl {
-  font-size: 4rem;
+.text-desk {
+  font-size: 20rem;
 }
 
 .italic {
@@ -8311,32 +8279,8 @@ video {
   width: 100vw;
 }
 
-.z-0 {
-  z-index: 0;
-}
-
-.z-10 {
-  z-index: 10;
-}
-
-.z-20 {
-  z-index: 20;
-}
-
-.z-30 {
-  z-index: 30;
-}
-
-.z-40 {
-  z-index: 40;
-}
-
-.z-50 {
-  z-index: 50;
-}
-
-.z-auto {
-  z-index: auto;
+.z-100 {
+  z-index: 100;
 }
 
 @media (min-width: 640px) {
@@ -15628,44 +15572,12 @@ video {
     color: #702459;
   }
 
-  .sm\:text-xs {
-    font-size: 0.75rem;
+  .sm\:text-mob {
+    font-size: 10rem;
   }
 
-  .sm\:text-sm {
-    font-size: 0.875rem;
-  }
-
-  .sm\:text-base {
-    font-size: 1rem;
-  }
-
-  .sm\:text-lg {
-    font-size: 1.125rem;
-  }
-
-  .sm\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .sm\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .sm\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .sm\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .sm\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .sm\:text-6xl {
-    font-size: 4rem;
+  .sm\:text-desk {
+    font-size: 20rem;
   }
 
   .sm\:italic {
@@ -16041,32 +15953,8 @@ video {
     width: 100vw;
   }
 
-  .sm\:z-0 {
-    z-index: 0;
-  }
-
-  .sm\:z-10 {
-    z-index: 10;
-  }
-
-  .sm\:z-20 {
-    z-index: 20;
-  }
-
-  .sm\:z-30 {
-    z-index: 30;
-  }
-
-  .sm\:z-40 {
-    z-index: 40;
-  }
-
-  .sm\:z-50 {
-    z-index: 50;
-  }
-
-  .sm\:z-auto {
-    z-index: auto;
+  .sm\:z-100 {
+    z-index: 100;
   }
 }
 
@@ -23359,44 +23247,12 @@ video {
     color: #702459;
   }
 
-  .md\:text-xs {
-    font-size: 0.75rem;
+  .md\:text-mob {
+    font-size: 10rem;
   }
 
-  .md\:text-sm {
-    font-size: 0.875rem;
-  }
-
-  .md\:text-base {
-    font-size: 1rem;
-  }
-
-  .md\:text-lg {
-    font-size: 1.125rem;
-  }
-
-  .md\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .md\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .md\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .md\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .md\:text-6xl {
-    font-size: 4rem;
+  .md\:text-desk {
+    font-size: 20rem;
   }
 
   .md\:italic {
@@ -23772,32 +23628,8 @@ video {
     width: 100vw;
   }
 
-  .md\:z-0 {
-    z-index: 0;
-  }
-
-  .md\:z-10 {
-    z-index: 10;
-  }
-
-  .md\:z-20 {
-    z-index: 20;
-  }
-
-  .md\:z-30 {
-    z-index: 30;
-  }
-
-  .md\:z-40 {
-    z-index: 40;
-  }
-
-  .md\:z-50 {
-    z-index: 50;
-  }
-
-  .md\:z-auto {
-    z-index: auto;
+  .md\:z-100 {
+    z-index: 100;
   }
 }
 
@@ -31090,44 +30922,12 @@ video {
     color: #702459;
   }
 
-  .lg\:text-xs {
-    font-size: 0.75rem;
+  .lg\:text-mob {
+    font-size: 10rem;
   }
 
-  .lg\:text-sm {
-    font-size: 0.875rem;
-  }
-
-  .lg\:text-base {
-    font-size: 1rem;
-  }
-
-  .lg\:text-lg {
-    font-size: 1.125rem;
-  }
-
-  .lg\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .lg\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .lg\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .lg\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .lg\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .lg\:text-6xl {
-    font-size: 4rem;
+  .lg\:text-desk {
+    font-size: 20rem;
   }
 
   .lg\:italic {
@@ -31503,32 +31303,8 @@ video {
     width: 100vw;
   }
 
-  .lg\:z-0 {
-    z-index: 0;
-  }
-
-  .lg\:z-10 {
-    z-index: 10;
-  }
-
-  .lg\:z-20 {
-    z-index: 20;
-  }
-
-  .lg\:z-30 {
-    z-index: 30;
-  }
-
-  .lg\:z-40 {
-    z-index: 40;
-  }
-
-  .lg\:z-50 {
-    z-index: 50;
-  }
-
-  .lg\:z-auto {
-    z-index: auto;
+  .lg\:z-100 {
+    z-index: 100;
   }
 }
 
@@ -38821,44 +38597,12 @@ video {
     color: #702459;
   }
 
-  .xl\:text-xs {
-    font-size: 0.75rem;
+  .xl\:text-mob {
+    font-size: 10rem;
   }
 
-  .xl\:text-sm {
-    font-size: 0.875rem;
-  }
-
-  .xl\:text-base {
-    font-size: 1rem;
-  }
-
-  .xl\:text-lg {
-    font-size: 1.125rem;
-  }
-
-  .xl\:text-xl {
-    font-size: 1.25rem;
-  }
-
-  .xl\:text-2xl {
-    font-size: 1.5rem;
-  }
-
-  .xl\:text-3xl {
-    font-size: 1.875rem;
-  }
-
-  .xl\:text-4xl {
-    font-size: 2.25rem;
-  }
-
-  .xl\:text-5xl {
-    font-size: 3rem;
-  }
-
-  .xl\:text-6xl {
-    font-size: 4rem;
+  .xl\:text-desk {
+    font-size: 20rem;
   }
 
   .xl\:italic {
@@ -39234,31 +38978,7 @@ video {
     width: 100vw;
   }
 
-  .xl\:z-0 {
-    z-index: 0;
-  }
-
-  .xl\:z-10 {
-    z-index: 10;
-  }
-
-  .xl\:z-20 {
-    z-index: 20;
-  }
-
-  .xl\:z-30 {
-    z-index: 30;
-  }
-
-  .xl\:z-40 {
-    z-index: 40;
-  }
-
-  .xl\:z-50 {
-    z-index: 50;
-  }
-
-  .xl\:z-auto {
-    z-index: auto;
+  .xl\:z-100 {
+    z-index: 100;
   }
 }
